@@ -1,34 +1,3 @@
-# import streamlit as st 
-# import pandas as pd
-# import PyPDF2
-# from sentence_transformers import SentenceTransformer
-# from sklearn.metrics.pairwise import cosine_similarity
-
- 
-# st.title("Resume Scanner ML Model")
-# st.write("This is the Neural Network model for scanning resumes.")
-# st.write("Upload your resume in PDF format:")
-# uploaded_file = st.file_uploader("Choose a file", type="pdf")
-# job_desc=st.text_input("Enter the job description:")
-# submit_button = st.button(label='Submit')
-
-# if submit_button:
-#     model = SentenceTransformer('all-MiniLM-L6-v2')
-
-#     if uploaded_file:
-#         reader = PyPDF2.PdfReader(uploaded_file)
-#     resume_text = ""
-#     for page in reader.pages:
-#         resume_text += page.extract_text()
-
-#     jd_text = job_desc
-
-#     resume_vec = model.encode([resume_text])
-#     jd_vec = model.encode([jd_text])
-
-#     score = cosine_similarity(resume_vec, jd_vec)[0][0] * 100
-#     st.write(f"Match Score: {score:.2f}/100")
-
 import streamlit as st
 import PyPDF2
 from sentence_transformers import SentenceTransformer

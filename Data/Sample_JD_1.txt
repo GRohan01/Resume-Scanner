@@ -1,0 +1,33 @@
+About the Role
+We are looking for a skilled Data Scientist to join our analytics team. The candidate should have strong experience in machine learning, data analysis, and model deployment. You will work with large datasets to build predictive models and generate actionable insights for business decisions.
+
+Key Responsibilities -
+Develop and deploy Machine Learning models
+Perform data cleaning, preprocessing, and feature engineering
+Build predictive models using Scikit-learn, TensorFlow, or PyTorch
+Analyze large datasets using Python, Pandas, NumPy
+Write complex queries using SQL
+Create dashboards and reports using Power BI or Tableau
+Collaborate with backend teams to deploy models using FastAPI or Flask
+Work with cloud platforms like AWS
+Use Docker for containerization
+Apply statistical techniques and hypothesis testing
+
+Required Skills -
+Strong proficiency in Python
+Experience with Machine Learning & Deep Learning
+Hands-on experience with Scikit-learn
+Good knowledge of SQL
+Experience with TensorFlow or PyTorch
+Knowledge of Data Visualization tools
+Understanding of REST APIs
+Familiarity with Git & GitHub
+Basic understanding of Linux
+
+Education -
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or related field
+Good to Have -
+Experience with NLP
+Experience with Time Series Forecasting
+Knowledge of MLOps
+Experience with CI/CD pipelines

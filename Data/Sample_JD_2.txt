@@ -1,0 +1,37 @@
+About the Role
+We are looking for a skilled Java Developer to design, develop, and maintain high-performance backend applications. The candidate should have strong knowledge of Java, Spring Boot, and RESTful APIs, and experience working with databases and cloud platforms.
+
+Key Responsibilities
+
+Develop scalable backend applications using Java
+Build RESTful APIs using Spring Boot
+Work with relational databases like MySQL or PostgreSQL
+Implement microservices architecture
+Write clean, maintainable, and testable code
+Perform unit testing using JUnit
+Use Git for version control
+Deploy applications on AWS or other cloud platforms
+Containerize applications using Docker
+Collaborate with frontend and DevOps teams
+
+Required Skills
+
+Strong proficiency in Core Java
+Experience with Spring Boot
+Knowledge of Hibernate / JPA
+Good understanding of OOP concepts
+Experience with SQL
+Familiarity with REST APIs
+Basic knowledge of Microservices
+Experience with Git & GitHub
+Understanding of Maven or Gradle
+
+Education-
+Bachelor’s degree in Computer Science, IT, or related field
+
+Good to Have-
+Experience with Kafka
+Knowledge of Redis
+Familiarity with CI/CD pipelines
+Experience with Kubernetes
+Basic understanding of System Design
